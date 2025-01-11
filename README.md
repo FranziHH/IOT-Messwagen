@@ -7,6 +7,17 @@ My Changes Are:
 * [ebay.de: original Part TLE4906L](https://www.ebay.de/itm/310969092221)
 * [amazon.de: USB-C Buchse](https://www.amazon.de/dp/B0C58PN7LC)
 
+Die Dateien Messwagen.h / Messwagen.ino haben den Präfix des umgebenden Ordners bekommen, dass die Arduino IDE nicht "meckert".  
+Ansonsten kann der Code direkt im vsCode (PlatformIO) kompiliert werden. Die passende platformio.ini habe ich erstellt.  
+
+## Work in Progress
+Ich bin dabei, die Teile zu bestellen, zum Teil sind die Teile geliefert.  
+Der Arduino lässt sich mit vsCode problemlos flashen und funktioniert wie beschrieben.
+In der Reichelt Liste ist ein alternativer Hall Sensor enthalten. Ich werde aber den originalen (von eBay) verbauen.  
+Die Magneten findet man auf Amazon / eBay / wo auch immer - hier muss man sehen, wieviel man zu welchem Preis erwerben möchte  
+
+<hr> 
+
 # IOT-Messwagen
 IOT-Messwagen für die Modellbahn
 
@@ -54,5 +65,5 @@ Messwagen.h
 [IOT-Messwagen bei 1zu160.net](https://www.1zu160.net/scripte/forum/forum_show.php?id=1344346)
 
 ### uwe-magnus.de
-[IOT-Messwagen](http://uwe-magnus.de/umbauten/messwagen/messwagen.html)
+[IOT-Messwagen](http://uwe-magnus.de/umbauten/messwagen/messwagen.html)  
 [Platinenhalter 3D Druck](http://uwe-magnus.de/umbauten/messwagen/Platinenhalter.zip)
