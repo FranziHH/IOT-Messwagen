@@ -1,3 +1,10 @@
+# ! Fork From IOT-Messwagen - Ronny140778
+This is Forked From https://github.com/Ronny140778/IOT-Messwagen
+
+My Changes Are:
+* Added Support for vsCode
+* [Reichelt.de Shopping Cart](https://www.reichelt.de/my/2216340)
+
 # IOT-Messwagen
 IOT-Messwagen für die Modellbahn
 
@@ -43,3 +50,6 @@ Messwagen.h
 
 ### Thread bei 1zu160.net
 [IOT-Messwagen bei 1zu160.net](https://www.1zu160.net/scripte/forum/forum_show.php?id=1344346)
+
+### uwe-magnus.de
+[IOT-Messwagen](http://uwe-magnus.de/umbauten/messwagen/messwagen.html)
