@@ -4,6 +4,8 @@ This is Forked From https://github.com/Ronny140778/IOT-Messwagen
 My Changes Are:
 * Added Support for vsCode
 * [Reichelt.de Shopping Cart](https://www.reichelt.de/my/2216340)
+* [ebay.de: original Part TLE4906L](https://www.ebay.de/itm/310969092221)
+* [amazon.de: USB-C Buchse](https://www.amazon.de/dp/B0C58PN7LC)
 
 # IOT-Messwagen
 IOT-Messwagen für die Modellbahn
@@ -53,3 +55,4 @@ Messwagen.h
 
 ### uwe-magnus.de
 [IOT-Messwagen](http://uwe-magnus.de/umbauten/messwagen/messwagen.html)
+[Platinenhalter 3D Druck](http://uwe-magnus.de/umbauten/messwagen/Platinenhalter.zip)
