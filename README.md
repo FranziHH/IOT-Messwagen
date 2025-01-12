@@ -16,6 +16,23 @@ Der Arduino lässt sich mit vsCode problemlos flashen und funktioniert wie besch
 In der Reichelt Liste ist ein alternativer Hall Sensor enthalten. Ich werde aber den originalen (von eBay) verbauen.  
 Die Magneten findet man auf Amazon / eBay / wo auch immer - hier muss man sehen, wieviel man zu welchem Preis erwerben möchte  
 
+## Hinweise
+Die Datei arduino_secrets.example.h nach arduino_secrets.h kopieren und die eigenen Zugangsdaten eintragen
+
+## Fehler vsCode / PlatformIO
+Bevor der Code geladen wird, unbedingt PlatformIO installieren!  
+
+Falls Fehler (Windows) in der Art  
+> MissingPackageManifestError: Could not find one of 'package.json' manifest files in the package  
+
+auftreten:  
+
+Hier hilft es nur PlatformIO zu deinstallieren, den Ordner  
+> C:\Users\\[UserName]\\.platformio  
+
+löschen und PlatformIO neu installieren.
+
+ 
 <hr> 
 
 # IOT-Messwagen
