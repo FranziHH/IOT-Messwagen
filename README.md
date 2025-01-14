@@ -16,6 +16,14 @@ Der Arduino lässt sich mit vsCode problemlos flashen und funktioniert wie besch
 In der Reichelt Liste ist ein alternativer Hall Sensor enthalten. Ich werde aber den originalen (von eBay) verbauen.  
 Die Magneten findet man auf Amazon / eBay / wo auch immer - hier muss man sehen, wieviel man zu welchem Preis erwerben möchte  
 
+## USB Anschluss nach außen geführt
+Die nach außen geführte USB-C Buchse kann natürlich auch dazu benutzt werden, um die Firmware neu aufzuspielen.  
+Es muss dafür dann nicht mehr das Gehäuse geöffnet werden.
+Es müssen lediglich die USB Datenleitungen verbunden werden:
+<img src="/images/IMG_20250114_143113.png" height="400px" title="USB Anschluß">  
+
+Dies ist nur der Funktionstest gewesen, zur Schaltung Stromversorgung Laden/Programmieren habe ich mir noch keine Gedanken gemacht.
+
 ## Hinweise
 Die Datei arduino_secrets.example.h nach arduino_secrets.h kopieren und die eigenen Zugangsdaten eintragen
 
