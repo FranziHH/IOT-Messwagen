@@ -19,7 +19,8 @@ Die Magneten findet man auf Amazon / eBay / wo auch immer - hier muss man sehen,
 ## USB Anschluss nach außen geführt
 Die nach außen geführte USB-C Buchse kann natürlich auch dazu benutzt werden, um die Firmware neu aufzuspielen.  
 Es muss dafür dann nicht mehr das Gehäuse geöffnet werden.
-Es müssen lediglich die USB Datenleitungen verbunden werden:
+Es müssen lediglich die USB Datenleitungen verbunden werden:  
+
 <img src="/images/IMG_20250114_143113.png" height="400px" title="USB Anschluß">  
 
 Dies ist nur der Funktionstest gewesen, zur Schaltung Stromversorgung Laden/Programmieren habe ich mir noch keine Gedanken gemacht.
